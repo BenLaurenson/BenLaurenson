@@ -3,19 +3,19 @@ $ benfetch
 
                     'c.                         ben@perth
                  ,xNMM.                         -----------
-               .OMMMMo                          Uptime: ~2 years in industry
-               OMMM0,                           Languages: Python, TypeScript, Bash
-     .;loddo:' loolloddol;.                     OS: macOS (Apple Silicon)
-   cKMMMMMMMMMMNWMMMMMMMMMM0:                   Shell: Zsh
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.                   Editor: Neovim
- XMMMMMMMMMMMMMMMMMMMMMMMX.                    Currently: IT Graduate @ Mineral Resources
-;MMMMMMMMMMMMMMMMMMMMMMMM:                      Previously: SWE @ Focus HQ
-:MMMMMMMMMMMMMMMMMMMMMMMM:                      Building: AI agents & automation
-.MMMMMMMMMMMMMMMMMMMMMMMMX.
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.                   contacts
- .XMMMMMMMMMMMMMMMMMMMMMMMMk                    -----------
-  .XMMMMMMMMMMMMMMMMMMMMMMK.                    GitHub: BenLaurenson
-    kMMMMMMMMMMMMMMMMMMMMd                      LinkedIn: benlaurenson
-     ;KMMMMMMMWXXWMMMMMk.                       Web: benlaurenson.dev
-       .cooc,.    .,coo:.                       Email: email@benlaurenson.dev
+               .OMMMMo                          Role: Cloud Developer @ Mineral Resources
+               OMMM0,                           Previously: DevOps Engineer @ Verizon Connect
+     .;loddo:' loolloddol;.                     Uptime: 12+ years in industry
+   cKMMMMMMMMMMNWMMMMMMMMMM0:                   Languages: Go, Python, TypeScript, Bash
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.                   Cloud: AWS, Azure (100+ accounts)
+ XMMMMMMMMMMMMMMMMMMMMMMMX.                    IaC: Terraform, CDK, CloudFormation
+;MMMMMMMMMMMMMMMMMMMMMMMM:                      OS: macOS (Apple Silicon)
+:MMMMMMMMMMMMMMMMMMMMMMMM:                      Shell: Zsh
+.MMMMMMMMMMMMMMMMMMMMMMMMX.                     Editor: Neovim
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.
+ .XMMMMMMMMMMMMMMMMMMMMMMMMk                    contacts
+  .XMMMMMMMMMMMMMMMMMMMMMMK.                    -----------
+    kMMMMMMMMMMMMMMMMMMMMd                      GitHub: BenLaurenson
+     ;KMMMMMMMWXXWMMMMMk.                       LinkedIn: benlaurenson
+       .cooc,.    .,coo:.                       Web: benlaurenson.dev
 ```
