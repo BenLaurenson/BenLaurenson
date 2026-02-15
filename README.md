@@ -3,12 +3,12 @@ $ benfetch
 
                     'c.                         ben@perth
                  ,xNMM.                         -----------
-               .OMMMMo                          Role: Cloud Developer @ Mineral Resources
-               OMMM0,                           Previously: DevOps Engineer @ Verizon Connect
-     .;loddo:' loolloddol;.                     Uptime: 12+ years in industry
-   cKMMMMMMMMMMNWMMMMMMMMMM0:                   Languages: Go, Python, TypeScript, Bash
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.                   Cloud: AWS, Azure (100+ accounts)
- XMMMMMMMMMMMMMMMMMMMMMMMX.                    IaC: Terraform, CDK, CloudFormation
+               .OMMMMo                          Role: AI Engineer @ Mineral Resources
+               OMMM0,                           Degree: BSc Computer Science (ECU)
+     .;loddo:' loolloddol;.                     Cert: AWS Certified Cloud Practitioner
+   cKMMMMMMMMMMNWMMMMMMMMMM0:                   Languages: Python, TypeScript, Node.js
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.                   AI/ML: Claude AI, LangChain, RAG, ChromaDB
+ XMMMMMMMMMMMMMMMMMMMMMMMX.                    Cloud: AWS, Terraform, Docker, Azure DevOps
 ;MMMMMMMMMMMMMMMMMMMMMMMM:                      OS: macOS (Apple Silicon)
 :MMMMMMMMMMMMMMMMMMMMMMMM:                      Shell: Zsh
 .MMMMMMMMMMMMMMMMMMMMMMMMX.                     Editor: Neovim
