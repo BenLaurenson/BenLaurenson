@@ -19,14 +19,3 @@ Currently an AI Engineer at **Mineral Resources**. Previously at **Focus HQ**.
 #### Stack
 
 <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,tailwind,aws,vercel,terraform,git,neovim&theme=dark" />
-
-<br/>
-
-<sub>Also: Claude Computer Use &middot; MCP &middot; DuckDB &middot; FastAPI &middot; shadcn/ui &middot; Radix</sub>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BenLaurenson&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=BenLaurenson&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true" />
-</picture>
