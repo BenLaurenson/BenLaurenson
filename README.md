@@ -1,6 +1,3 @@
-```
-$ benfetch
-
                     'c.                         ben@perth
                  ,xNMM.                         -----------
                .OMMMMo                          Role: AI Engineer @ Mineral Resources
@@ -18,4 +15,3 @@ $ benfetch
     kMMMMMMMMMMMMMMMMMMMMd                      GitHub: BenLaurenson
      ;KMMMMMMMWXXWMMMMMk.                       LinkedIn: benlaurenson
        .cooc,.    .,coo:.                       Web: benlaurenson.dev
-```
